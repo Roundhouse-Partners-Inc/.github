@@ -1,11 +1,12 @@
 # Roundhouse Partners, Inc.
 
 <div align="center">
-  <img src="RH_Logo.png" alt="Roundhouse Partners Logo" width="300">
   
-  ### Direct Marketing Implementation Agency
-  
-  **100+ Years of Marketing Excellence | Madison, WI**
+# 🏢 Roundhouse Partners, Inc.
+
+### Direct Marketing Implementation Agency
+
+**100+ Years of Marketing Excellence | Madison, WI**
   
   [![Website](https://img.shields.io/badge/Website-roundhousepartnersinc.com-blue)](https://roundhousepartnersinc.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5)](https://www.linkedin.com/company/roundhouse-marketing-services)
