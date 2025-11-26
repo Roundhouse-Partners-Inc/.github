@@ -1,7 +1,7 @@
 # Roundhouse Partners, Inc.
 
 <div align="center">
-  <img src="https://roundhousepartnersinc.com/img/RH_Color_Logo_192x189.png" alt="Roundhouse Partners Logo" width="192" height="189">
+  <img src="RH_Logo.png" alt="Roundhouse Partners Logo" width="300">
   
   ### Direct Marketing Implementation Agency
   
@@ -9,6 +9,7 @@
   
   [![Website](https://img.shields.io/badge/Website-roundhousepartnersinc.com-blue)](https://roundhousepartnersinc.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5)](https://www.linkedin.com/company/roundhouse-marketing-services)
+  [![Twitter](https://img.shields.io/badge/Twitter-@RoundhouseMKTG-1DA1F2)](https://twitter.com/RoundhouseMKTG)
 </div>
 
 ---
