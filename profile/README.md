@@ -8,7 +8,6 @@
   
   [![Website](https://img.shields.io/badge/Website-roundhousepartnersinc.com-blue)](https://roundhousepartnersinc.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5)](https://www.linkedin.com/company/roundhouse-marketing-services)
-  [![Twitter](https://img.shields.io/badge/Twitter-@RoundhouseMKTG-1DA1F2)](https://twitter.com/RoundhouseMKTG)
 </div>
 
 ---
