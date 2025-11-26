@@ -7,7 +7,7 @@
 **100+ Years of Marketing Excellence | Madison, WI**
   
   [![Website](https://img.shields.io/badge/Website-roundhousepartnersinc.com-blue)](https://roundhousepartnersinc.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5)]([https://www.linkedin.com/company/roundhouse-marketing-services](https://www.linkedin.com/company/roundhouse-marketing))
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5)](https://www.linkedin.com/company/roundhouse-marketing-services](https://www.linkedin.com/company/roundhouse-marketing)
 </div>
 
 ---
