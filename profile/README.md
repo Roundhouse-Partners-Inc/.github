@@ -1,5 +1,3 @@
-# Roundhouse Partners, Inc.
-
 <div align="center">
   
 # 🏢 Roundhouse Partners, Inc.
